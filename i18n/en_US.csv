@@ -1,0 +1,6 @@
+JustCoded,JustCoded
+"Local Config","Local Config"
+Settings,Settings
+"Config Filename","Config Filename"
+"filepath from the root of magento folder to the config file, if file is not exist no errors will be thrown, so you can just not to create file if you don't want to","filepath from the root of magento folder to the config file, if file is not exist no errors will be thrown, so you can just not to create file if you don't want to"
+"url where config will be loaded from, leave it empty if don't want to load config from url","url where config will be loaded from, leave it empty if don't want to load config from url"
